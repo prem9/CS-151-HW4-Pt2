@@ -60,8 +60,4 @@ public class Course
     {
         return weekDay;
     }
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
 }
